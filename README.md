@@ -8,4 +8,4 @@ Some future improvements would be:
 
 - having the PacMen chase your mouse around the screen
 - being able to change from PacMen to other characters
-- adding sound effects or visual effects whenever a PacMan hits the wall
+- adding sound effects or visual effects whenever a PacMan hits the edge of the screen
