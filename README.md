@@ -1,4 +1,5 @@
-# PacmanGame.github.io
+# Pacman Game
+
 This is an incredibly simple pacman game. The more you click, the better it gets!
 
 In order to play, just click the start game button, and then add as many PacMen to the game as your heart desires.
